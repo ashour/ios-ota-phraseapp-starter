@@ -1,4 +1,4 @@
-# A Working Example of an iOS App with PhraseApp Over the Air Translations
+# A Starting Point for a Working Example of an iOS App with PhraseApp Over the Air Translations
 This repo and app are companions to a PhraseApp blog article.
 
 ## Installation
